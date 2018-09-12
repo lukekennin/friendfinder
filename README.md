@@ -1,0 +1,3 @@
+ - Install modules with `npm install`
+ - Run `node server.js`
+ - Go to `localhost:8080` in your web browser.
